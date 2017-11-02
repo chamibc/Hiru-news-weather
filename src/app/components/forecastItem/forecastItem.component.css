@@ -1,0 +1,37 @@
+.date {
+  font-size: 0.9em;
+  display: block;
+  padding: 0px 10px 5px 10px;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.time {
+  font-size: 0.9em;
+  display: block;
+  padding: 0px 10px 5px 10px;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.icon {
+  display: block;
+  padding: 5px 10px;
+}
+
+.humidity {
+  font-size: 0.9em;
+  display: block;
+  padding: 5px 10px;
+  white-space: nowrap;
+  text-align: center;
+}
+
+.temperature {
+  background: #75c5ba;
+  font-size: 1.4em;
+  display: block;
+  padding: 5px 10px;
+  white-space: nowrap;
+  text-align: center;
+}
